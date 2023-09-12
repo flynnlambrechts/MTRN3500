@@ -1,0 +1,6 @@
+[submodule "MTRN3500-lectures-23T3"]
+	path = MTRN3500-lectures-23T3
+	url = git@github.com:UNSW-MTRN3500/MTRN3500-lectures-23T3.git
+[submodule "plc-assignment-flynnlambrechts"]
+	path = plc-assignment-flynnlambrechts
+	url = git@github.com:UNSW-MTRN3500/plc-assignment-flynnlambrechts.git
