@@ -4,3 +4,6 @@
 [submodule "plc-assignment-flynnlambrechts"]
 	path = plc-assignment-flynnlambrechts
 	url = git@github.com:UNSW-MTRN3500/plc-assignment-flynnlambrechts.git
+[submodule "CLRProgramming"]
+	path = CLRProgramming
+	url = git@github.com:UNSW-MTRN3500/CLRProgramming.git
